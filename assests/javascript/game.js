@@ -64,7 +64,7 @@ document.onkeyup = function(event) {
             boo.play();
             document.querySelector('#losses').innerHTML = "Losses: " + losses;
             document.querySelector('.doc').style.display = '';
-            document.querySelector('.doc').innerHTML = "Sorry Avenger, I was thinking of the letter " + letterToGuess;
+            document.querySelector('.doc').innerHTML = "Sorry Avenger , I was thinking of the letter " + letterToGuess;
 
             reset();
 
