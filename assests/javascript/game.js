@@ -22,7 +22,7 @@ document.onkeyup = function (event) {
             attempts = 10;
             usedArray = [];
 
-      
+      }
       jsGuess();
       if (playerGuess !== ranLetter) {
             attempts--;
