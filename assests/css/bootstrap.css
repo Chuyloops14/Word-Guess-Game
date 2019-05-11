@@ -1,0 +1,19 @@
+@media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm-inline {
+    display: inline !important;
+    }
+    }
+    @media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm-inline-block {
+    display: inline-block !important;
+    }
+    }
+    
+    a {
+        background-color: transparent;
+      }
+      a:active,
+      a:hover {
+        outline: 0;
+      }
+      
